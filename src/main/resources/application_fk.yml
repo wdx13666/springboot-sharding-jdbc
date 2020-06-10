@@ -63,8 +63,6 @@ spring:
             type: SNOWFLAKE
       #指定公共表
 #      broadcast-tables:
-      #设置绑定表
-#      binding-tables[0]: order1,order2
 
 
 logging:
